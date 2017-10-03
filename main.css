@@ -7,11 +7,17 @@ body {
     font-size: 40px;
 }
 
-.nav {
-    color: white;
+nav {
+    background-color: #020202;
     font-size: 25px;
 }
 
 .nav:hover{
     color:  #348A96;
+}
+#navvy {
+    background-color: rgba(0, 0, 0, 0.62);
+}
+#dropdown1{
+    background-color: black;
 }
