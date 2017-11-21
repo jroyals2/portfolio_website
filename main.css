@@ -61,3 +61,6 @@ nav {
     justify-content: center;
     align-items: center;
 }    
+.side-nav {
+    background-color: rgb(205, 202, 202);
+}
