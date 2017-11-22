@@ -58,9 +58,23 @@ nav {
     padding: 2px 16px;
     margin: 50px;
     display: flex; 
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }    
 .side-nav {
     background-color: rgb(205, 202, 202);
 }
+.flexing{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.parallax-container {
+    height: 500px;
+ }
+
+ .projectimage {
+     width: 60%;
+     border: 2px solid black;
+ }
